@@ -1,4 +1,4 @@
-from IntroducaoPOO.heroi import Heroi
+from IntroducaoPOO.IntroducaoPOO.heroi import Heroi
 
 """
 #Objeto homem aranha
