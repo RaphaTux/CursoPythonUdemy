@@ -1,3 +1,5 @@
-valor_unitario = float(input( "Informe uma valor unitario " ))
-quantidade = int(input( 'informe a quantidade de produtos ' ))
-print( "O valor total da compra é :", valor_unitario*quantidade )
+valor_unitario = 165.78
+quantidade = 5
+valor_total = valor_unitario * quantidade
+frase = ' O produto curts %f .Eu comprei %d. Paguei ao todo %f' %(valor_unitario,quantidade,valor_total)
+print(frase)
